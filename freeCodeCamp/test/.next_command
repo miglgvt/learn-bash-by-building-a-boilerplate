@@ -289,3 +289,10 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto
 git remote add origin https://github.com/miglgvt/learn-bash-by-building-a-boilerplate.git
+git push origin main --force
+git push origin main --force
+git fetch origin
+__vsc_prompt_cmd_original
+git fetch origin
+git rebase origin/main
+git rebase origin/main
