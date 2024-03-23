@@ -185,3 +185,5 @@ rm images/background.jpg
 rmdir images/
 ls --color=auto
 mkdir client/assets/icons
+__vsc_prompt_cmd_original
+mv CodeAlly.svg client/assets/icons/
