@@ -154,3 +154,7 @@ find --help
 find -name index.html
 __vsc_prompt_cmd_original
 find -name styles.css
+find src
+find src/
+find client/src
+find -name src
