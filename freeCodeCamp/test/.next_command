@@ -68,3 +68,4 @@ clear
 ls --color=auto
 cd scr
 cd src
+pwd
