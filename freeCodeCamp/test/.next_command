@@ -231,3 +231,4 @@ find -name project
 cd ./workspace/project
 ls --color=auto
 mv website/ website-boilerplate
+ls --color=auto
