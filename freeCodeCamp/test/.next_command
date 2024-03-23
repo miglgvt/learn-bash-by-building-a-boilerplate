@@ -29,3 +29,4 @@ pwd
 ll
 ls --color=auto
 cd test
+pwd
