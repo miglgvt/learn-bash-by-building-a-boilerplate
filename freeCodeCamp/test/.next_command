@@ -189,3 +189,4 @@ __vsc_prompt_cmd_original
 mv CodeAlly.svg client/assets/icons/
 find
 mv CodeRoad.svg client/assets/icons/
+mv freeCodeCamp.svg client/assets/icons/
