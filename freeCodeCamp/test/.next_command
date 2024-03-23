@@ -28,3 +28,4 @@ cd freeCodeCamp/
 pwd
 ll
 ls --color=auto
+cd test
