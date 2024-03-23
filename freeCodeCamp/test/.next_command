@@ -106,3 +106,5 @@ touch CodeAlly.svg
 touch CodeRoad.scg
 rm CodeRoad.scg
 touch CodeRoad.svg
+freeCodeCamp.svg
+touch freeCodeCamp.svg
