@@ -33,3 +33,4 @@ pwd
 lls
 ls --color=auto
 cd ..
+ls --color=auto
