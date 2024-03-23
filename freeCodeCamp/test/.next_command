@@ -114,3 +114,4 @@ ls --color=auto
 copy backgroun.jpg images
 cp background.jpg images
 cd images
+ls --color=auto
