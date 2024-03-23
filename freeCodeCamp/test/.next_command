@@ -160,3 +160,6 @@ find client/src
 find -name src
 find
 cd client
+mkdir assests
+rmdir assests/
+mkdir assets
